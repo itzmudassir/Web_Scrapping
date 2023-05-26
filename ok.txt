@@ -1,0 +1,501 @@
+Influenza (Flu): Fever, cough, sore throat, body aches, fatigue.
+Diabetes: Frequent urination, excessive thirst, unexplained weight loss, fatigue, blurred vision.
+Asthma: Shortness of breath, wheezing, chest tightness, coughing.
+Hypertension (High blood pressure): Headaches, dizziness, chest pain, blurred vision, fatigue.
+Migraine: Intense headaches, nausea, vomiting, sensitivity to light and sound.
+Pneumonia: Cough, chest pain, fever, chills, difficulty breathing.
+Arthritis: Joint pain, swelling, stiffness, reduced range of motion.
+Alzheimer's disease: Memory loss, confusion, disorientation, difficulty speaking or writing.
+Parkinson's disease: Tremors, muscle rigidity, slowed movement, balance problems.
+Tuberculosis (TB): Persistent cough, fatigue, weight loss, night sweats, chest pain.
+Osteoporosis: Fractures due to weakened bones, loss of height over time, back pain.
+Hepatitis: Fatigue, jaundice (yellowing of the skin and eyes), abdominal pain, loss of appetite.
+Multiple sclerosis (MS): Fatigue, numbness or tingling, muscle weakness, coordination problems.
+Breast cancer: Lump or thickening in the breast, changes in breast shape, skin changes, nipple discharge.
+Colorectal cancer: Blood in stool, persistent changes in bowel habits, abdominal pain, weight loss.
+HIV/AIDS: Fatigue, fever, swollen lymph nodes, weight loss, recurrent infections.
+Epilepsy: Seizures, loss of consciousness, unusual sensations, temporary confusion.
+Glaucoma: Gradual loss of peripheral vision, eye pain, blurred vision, halos around lights.
+Ovarian cancer: Abdominal bloating, pelvic pain, feeling full quickly, frequent urination.
+Celiac disease: Digestive issues, weight loss, fatigue, skin rash, nutrient deficiencies.
+Lyme disease: Rash, flu-like symptoms, joint pain, neurological problems.
+Gout: Intense joint pain, swelling, redness, limited range of motion.
+Hypothyroidism: Fatigue, weight gain, cold intolerance, depression, dry skin.
+Anemia: Fatigue, weakness, pale skin, shortness of breath, dizziness.
+Fibromyalgia: Widespread pain, fatigue, sleep disturbances, cognitive difficulties.
+Chronic obstructive pulmonary disease (COPD): Shortness of breath, chronic cough, wheezing, fatigue.
+Endometriosis: Pelvic pain, painful periods, infertility, pain during intercourse.
+Psoriasis: Red, scaly patches of skin, itching, nail abnormalities.
+Ulcerative colitis: Abdominal pain, bloody diarrhea, urgency to have bowel movements.
+Cystic fibrosis: Persistent cough, frequent lung infections, poor weight gain, salty-tasting skin.
+Irritable bowel syndrome (IBS): Abdominal pain, bloating, changes in bowel habits.
+Hypoglycemia (Low blood sugar): Shakiness, dizziness, sweating, confusion, weakness.
+Schizophrenia: Delusions, hallucinations, disorganized speech, impaired cognition.
+Gastroesophageal reflux disease (GERD): Heartburn, regurgitation, chest pain, difficulty swallowing.
+Bipolar disorder: Periods of elevated mood (mania) alternating with periods
+Anxiety disorder: Excessive worry, restlessness, irritability, difficulty concentrating, sleep disturbances.
+Stroke: Sudden weakness or numbness of the face, arm, or leg, difficulty speaking or understanding speech, severe headache, dizziness.
+Coronary artery disease: Chest pain or discomfort (angina), shortness of breath, fatigue, irregular heartbeat.
+Osteoarthritis: Joint pain, stiffness, decreased flexibility, swelling.
+Urinary tract infection (UTI): Frequent urination, burning sensation during urination, cloudy or bloody urine, abdominal pain.
+Chronic kidney disease: Fatigue, swelling in the legs and ankles, changes in urination pattern, nausea, loss of appetite.
+Rheumatoid arthritis: Joint pain, swelling, morning stiffness, fatigue, fever.
+Leukemia: Fatigue, pale skin, frequent infections, easy bruising or bleeding, swollen lymph nodes.
+Melanoma: Changes in the shape or color of moles, new growths or sores, itching, bleeding.
+Osteomyelitis: Bone pain, swelling, redness, fever, difficulty moving the affected limb.
+Anorexia nervosa: Significant weight loss, fear of gaining weight, distorted body image, obsession with food and calories.
+Bulimia nervosa: Recurrent episodes of binge eating followed by purging behaviors (vomiting, excessive exercise, etc.), distorted body image.
+Dengue fever: High fever, severe headache, joint and muscle pain, rash, bleeding.
+Hypothyroidism: Fatigue, weight gain, depression, constipation, dry skin, hair loss.
+Pancreatitis: Severe abdominal pain, nausea, vomiting, fever, rapid pulse.
+Ovarian cysts: Pelvic pain, bloating, abdominal swelling, changes in menstrual cycle.
+Sickle cell anemia: Fatigue, shortness of breath, recurrent pain episodes (crisis), yellowing of the skin and eyes (jaundice).
+Eczema (Atopic dermatitis): Dry, itchy, and red skin, rash, inflammation, skin thickening.
+Crohn's disease: Abdominal pain, diarrhea, weight loss, fatigue, bloody stools.
+Hypertensive heart disease: Chest pain, shortness of breath, fatigue, irregular heartbeat, swelling in the legs and ankles.
+Osteosarcoma: Bone pain, swelling, fractures, weakness, fatigue.
+Gastroenteritis: Nausea, vomiting, diarrhea, abdominal cramps, fever.
+Obsessive-compulsive disorder (OCD): Intrusive thoughts or obsessions, repetitive behaviors or compulsions, anxiety.
+Meningitis: Severe headache, neck stiffness, fever, sensitivity to light, confusion.
+Cataracts: Cloudy or blurry vision, difficulty seeing at night, sensitivity to light, faded colors.
+Polycystic ovary syndrome (PCOS): Irregular periods, excessive hair growth, acne, weight gain, fertility problems.
+Hypoglycemia (Low blood sugar): Shakiness, dizziness, sweating, confusion, weakness.
+Huntington's disease: Involuntary movements, balance problems, mood changes, cognitive decline.
+Systemic lupus erythematosus (SLE): Fatigue, joint pain, skin rash, fever, kidney problems.
+Hemorrhoids: Rectal pain or discomfort, bleeding during bowel movements, itching, swelling.
+Myasthenia gravis: Muscle weakness, drooping eyelids, difficulty speaking, fatigue.
+Osteoporosis: Fractures due to weakened bones, loss of height over time, back pain.
+Hypothyroidism: Fatigue, weight gain, cold intolerance, depression, dry skin.
+Gastritis: Abdominal pain, nausea, vomiting, bloating, loss of appetite.
+Fibroids: Heavy or prolonged menstrual periods, pelvic pain, frequent urination, constipation.
+Deep vein thrombosis (DVT): Swelling, pain, or tenderness in the leg, warmth, redness.
+Sjögren's syndrome: Dry eyes, dry mouth, joint pain, fatigue.
+Gastroesophageal reflux disease (GERD): Heartburn, regurgitation, chest pain, difficulty swallowing.
+Cystic fibrosis: Persistent cough, frequent lung infections, poor weight gain, salty-tasting skin.
+Erectile dysfunction: Difficulty achieving or maintaining an erection, reduced sexual desire
+Cholecystitis (Gallbladder inflammation): Abdominal pain, fever, nausea, vomiting, bloating.
+Diverticulitis: Abdominal pain (usually in the lower left side), fever, nausea, changes in bowel habits.
+Hypothyroidism: Fatigue, weight gain, depression, constipation, dry skin, hair loss.
+Cushing's syndrome: Weight gain (particularly in the face and abdomen), high blood pressure, muscle weakness, mood changes.
+Osteomalacia: Bone pain, muscle weakness, fractures, difficulty walking.
+Meningococcal meningitis: Severe headache, fever, stiff neck, nausea, sensitivity to light.
+Ankylosing spondylitis: Back pain and stiffness, limited mobility, fatigue, eye inflammation.
+Wilson's disease: Fatigue, jaundice, abdominal pain, tremors, behavioral changes.
+Polycythemia vera: Fatigue, headache, itching, enlarged spleen, blood clotting.
+Cushing's disease: Weight gain (particularly in the face and upper body), mood swings, muscle weakness, excessive hair growth.
+Graves' disease: Weight loss, rapid heartbeat, anxiety, irritability, bulging eyes.
+Raynaud's disease: Cold fingers or toes, color changes in the skin (white, blue, red), numbness or tingling.
+Bell's palsy: Sudden weakness or paralysis on one side of the face, drooping of the mouth or eyelid, difficulty closing the eye.
+Barrett's esophagus: Chronic heartburn, difficulty swallowing, chest pain, vomiting blood.
+Bacterial vaginosis: Vaginal discharge with a strong, fishy odor, itching, burning during urination.
+Marfan syndrome: Tall and thin stature, long limbs, joint hypermobility, heart murmurs, vision problems.
+Psoriatic arthritis: Joint pain, stiffness, swelling, skin patches or plaques (psoriasis).
+Von Willebrand disease: Excessive bleeding, easy bruising, nosebleeds, heavy or prolonged menstrual periods.
+Chlamydia: Painful urination, abnormal vaginal or penile discharge, pelvic pain, testicular pain.
+Polymyalgia rheumatica: Stiffness and pain in the shoulders, neck, and hips, fatigue, weight loss.
+Chronic fatigue syndrome (CFS): Severe fatigue that is not improved by rest, cognitive difficulties, muscle pain, unrefreshing sleep.
+Mitral valve prolapse: Fatigue, chest discomfort, palpitations, shortness of breath, lightheadedness.
+Bursitis: Joint pain, swelling, tenderness, limited range of motion.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Menopause: Hot flashes, night sweats, mood swings, vaginal dryness, sleep disturbances.
+Hemochromatosis: Fatigue, joint pain, abdominal pain, weakness, weight loss.
+Hypogonadism: Reduced libido, erectile dysfunction, fatigue, infertility, decreased muscle mass.
+Myocardial infarction (Heart attack): Chest pain or discomfort, shortness of breath, nausea, lightheadedness, sweating.
+Pancreatic cancer: Abdominal pain, jaundice, unexplained weight loss, digestive problems, fatigue.
+Sarcoidosis: Fatigue, persistent dry cough, shortness of breath, swollen lymph nodes, skin rashes.
+Hypopituitarism: Fatigue, weight gain, decreased libido, menstrual irregularities, sensitivity to cold.
+Peripheral artery disease (PAD): Leg pain or cramping during activity, leg numbness or weakness, slow-healing sores on the legs or feet.
+Amyotrophic lateral sclerosis (ALS): Muscle weakness, twitching, difficulty speaking or swallowing, muscle stiffness.
+Hypoplastic left heart syndrome: Cyanosis (bluish skin color), rapid breathing, poor feeding, low blood pressure.
+Wegener's granulomatosis (Granulomatosis with polyangiitis): Sinus pain, persistent cough, shortness of breath, joint pain, kidney problems.
+Ehlers-Danlos syndrome: Joint hypermobility, skin hyperextensibility, chronic pain, easy bruising, fragile blood vessels.
+Interstitial cystitis: Chronic pelvic pain, urinary urgency, frequent urination, bladder discomfort.
+Hyperthyroidism: Weight loss, increased appetite, irritability, trembling hands, rapid heartbeat.
+Hypoplastic right heart syndrome: Cyanosis (bluish skin color), rapid breathing, poor feeding, low blood pressure.
+Wegener's granulomatosis (Granulomatosis with polyangiitis): Sinus pain, persistent cough, shortness of breath, joint pain, kidney problems.
+Ehlers-Danlos syndrome: Joint hypermobility, skin hyperextensibility, chronic pain, easy bruising, fragile blood vessels.
+Interstitial cystitis: Chronic pelvic pain, urinary urgency, frequent urination, bladder discomfort.
+Hyperthyroidism: Weight loss, increased appetite, irritability, trembling hands, rapid heartbeat.
+Hemophilia: Excessive bleeding, easy bruising, joint pain or swelling, prolonged bleeding after injury or surgery.
+Parathyroid cancer: Fatigue, bone pain, frequent fractures, kidney stones, excessive thirst.
+Cysticercosis: Seizures, headaches, confusion, muscle weakness, vision problems.
+Hemorrhagic stroke: Sudden severe headache, weakness or numbness on one side of the body, slurred speech, loss of balance.
+Behçet's disease: Mouth sores, genital sores, eye inflammation, skin lesions, joint pain.
+Wilson's disease: Fatigue, jaundice, abdominal pain, tremors, behavioral changes.
+Uterine fibroids: Heavy menstrual bleeding, pelvic pain, frequent urination, constipation.
+Chronic pancreatitis: Abdominal pain, nausea, vomiting, weight loss, oily or fatty stools.
+Prader-Willi syndrome: Excessive hunger and food-seeking behavior, obesity, developmental delays, low muscle tone.
+Cushing's syndrome: Weight gain (particularly in the face and abdomen), high blood pressure, muscle weakness, mood changes.
+Chronic prostatitis/chronic pelvic pain syndrome: Pelvic pain, pain during urination or ejaculation, frequent urination, sexual dysfunction.
+Retinal detachment: Floaters or flashes of light in vision, blurred vision, a curtain-like shadow over the visual field.
+Binge eating disorder: Recurrent episodes of uncontrollable overeating, feelings of guilt or shame, eating in secret, rapid eating.
+Uterine cancer: Abnormal vaginal bleeding (postmenopausal or between periods), pelvic pain, feeling of fullness, weight loss.
+Mitral valve regurgitation: Fatigue, shortness of breath, heart palpitations, swollen ankles, coughing.
+Antiphospholipid syndrome: Blood clots, recurrent miscarriages, rash, neurological symptoms, low platelet count.
+Achalasia: Difficulty swallowing, regurgitation of food, chest pain, weight loss.
+Acromegaly: Enlarged hands and feet, enlarged facial features, joint pain, thickened skin.
+Polymyositis: Muscle weakness, difficulty swallowing, fatigue, muscle pain, joint inflammation.
+Bacterial endocarditis: Fever, fatigue, heart murmur, joint pain, skin rash.
+Restless legs syndrome: Uncomfortable sensation in the legs, often relieved by movement, difficulty sleeping, involuntary leg movements.
+Hemolytic anemia: Fatigue, weakness, pale skin, shortness of breath, jaundice.
+Chikungunya: Fever, joint pain, muscle pain, headache, rash.
+Polymyalgia rheumatica: Stiffness and pain in the shoulders, neck, and hips, fatigue, weight loss.
+Cholecystitis (Gallbladder inflammation): Abdominal pain, fever, nausea, vomiting, bloating.
+Albinism: Absence or reduction of skin, hair, and eye pigment, sensitivity to light, vision problems.
+Pruritus (Itching): Persistent itching, skin rash, dry skin, redness, bumps or blisters.
+Chronic rhinosinusitis: Facial pain or pressure, nasal congestion, thick nasal discharge, cough.
+Hemophilia: Excessive bleeding, easy bruising, joint pain or swelling, prolonged bleeding after injury or surgery.
+Gastric ulcers: Abdominal pain or discomfort (usually relieved by eating or taking antacids), indigestion, nausea, vomiting.
+Behçet's disease: Mouth sores, genital sores, eye inflammation, skin lesions, joint pain.
+Prostate cancer: Urinary difficulties (frequent urination, weak urine flow, blood in urine), erectile dysfunction, bone pain.
+Von Hippel-Lindau disease: Headaches, vision problems, high blood pressure, abdominal pain, kidney cysts or tumors.
+Lactose intolerance: Abdominal pain, bloating, diarrhea, gas, nausea after consuming dairy products.
+Sickle cell disease: Fatigue, shortness of breath, pain crises, delayed growth, increased risk of infections.
+Adenomyosis: Heavy or prolonged menstrual bleeding, severe menstrual cramps, pelvic pain, bloating.
+Mesothelioma: Chest pain, shortness of breath, persistent cough, weight loss, fatigue.
+Chronic kidney disease: Fatigue, swelling in the legs and ankles, changes in urination pattern, nausea, loss of appetite.
+Chagas disease: Fever, fatigue, body aches, swollen lymph nodes, heart rhythm abnormalities.
+Chiari malformation: Headaches, neck pain, balance problems, numbness or tingling, difficulty swallowing.
+Necrotizing fasciitis: Severe pain, swelling, redness in the affected area, fever, ulcers or blisters.
+Trichomoniasis: Vaginal itching or irritation, abnormal vaginal discharge (foamy, greenish-yellow), pain during urination or intercourse.
+Turner syndrome: Short stature, delayed puberty, infertility, heart defects, learning difficulties.
+Mesenteric ischemia: Abdominal pain after eating, weight loss, diarrhea, nausea, vomiting.
+Chagas disease: Fever, fatigue, body aches, swollen lymph nodes, heart rhythm abnormalities.
+Chiari malformation: Headaches, neck pain, balance problems, numbness or tingling, difficulty swallowing.
+Necrotizing fasciitis: Severe pain, swelling, redness in the affected area, fever, ulcers or blisters.
+Trichomoniasis: Vaginal itching or irritation, abnormal vaginal discharge (foamy, greenish-yellow), pain during urination or intercourse.
+Turner syndrome: Short stature, delayed puberty, infertility, heart defects, learning difficulties.
+Mesenteric ischemia: Abdominal pain after eating, weight loss, diarrhea, nausea, vomiting.
+Gastroesophageal reflux disease (GERD): Heartburn, regurgitation, chest pain, difficulty swallowing.
+Bell's palsy: Sudden weakness or paralysis on one side of the face, drooping of the mouth or eyelid, difficulty closing the eye.
+Chronic lymphocytic leukemia: Fatigue, enlarged lymph nodes, night sweats, recurrent infections, unexplained weight loss.
+Ectopic pregnancy: Abdominal pain (often on one side), vaginal bleeding, shoulder pain, dizziness.
+Chronic venous insufficiency: Leg pain, swelling, varicose veins, skin discoloration, leg ulcers.
+Ehlers-Danlos syndrome: Joint hypermobility, skin hyperextensibility, chronic pain, easy bruising, fragile blood vessels.
+Kawasaki disease: High fever, rash, swollen lymph nodes, redness of the palms and soles, peeling skin.
+Hemorrhoids: Rectal pain or discomfort, bleeding during bowel movements, itching, swelling.
+Myelodysplastic syndrome: Fatigue, weakness, shortness of breath, frequent infections, easy bleeding or bruising.
+Adrenal insufficiency: Fatigue, weight loss, low blood pressure, abdominal pain, salt cravings.
+Bacterial meningitis: Severe headache, fever, stiff neck, nausea, sensitivity to light.
+Stevens-Johnson syndrome: Rash, blisters, fever, sore throat, fatigue.
+Herpes zoster (Shingles): Painful rash with blisters, itching, tingling, fever, fatigue.
+Chronic obstructive pulmonary disease (COPD): Shortness of breath, chronic cough, wheezing, fatigue.
+Temporomandibular joint disorder (TMJ): Jaw pain, clicking or popping sounds, difficulty opening or closing the mouth, headaches.
+Autoimmune hepatitis: Fatigue, abdominal pain, joint pain, yellowing of the skin and eyes (jaundice), enlarged liver.
+Von Willebrand disease: Excessive bleeding, easy bruising, nosebleeds, heavy or prolonged menstrual periods.
+Peyronie's disease: Curvature of the penis, pain during erection, difficulty with sexual intercourse.
+Paget's disease of bone: Bone pain, joint pain, deformities, increased risk of fractures.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Ovarian torsion: Sudden severe abdominal pain, nausea, vomiting, bloating, fever.
+Preeclampsia: High blood pressure, swelling (edema), protein in urine, severe headaches, vision changes.
+Addison's disease: Fatigue, weight loss, low blood pressure, darkening of the skin, salt cravings.
+Laryngitis: Hoarseness, loss of voice, sore throat, coughing, difficulty swallowing.
+Stevens-Johnson syndrome: Rash, blisters, fever, sore throat, fatigue.
+Interstitial lung disease: Shortness of breath, dry cough, fatigue, weight loss, chest discomfort.
+Retinoblastoma: White pupil or a white reflection in the eye, crossed eyes, eye redness, vision problems.
+Achalasia: Difficulty swallowing, regurgitation of food, chest pain, weight loss.
+Reactive arthritis: Joint pain and swelling, inflammation of the eyes (conjunctivitis), urinary symptoms, skin rash.
+Lymphedema: Swelling in the arms or legs, a feeling of heaviness or tightness, restricted range of motion, recurrent infections.
+Systemic vasculitis: Fatigue, fever, weight loss, muscle and joint pain, skin rash.
+Goodpasture syndrome: Fatigue, shortness of breath, coughing up blood, kidney problems.
+Hirschsprung's disease: Chronic constipation, abdominal distension, failure to pass meconium in newborns, poor feeding.
+Myocarditis: Chest pain, shortness of breath, fatigue, rapid or irregular heartbeat, swollen legs or ankles.
+Lymphoma: Enlarged lymph nodes, fever, night sweats, unexplained weight loss, fatigue.
+Hemorrhagic fever with renal syndrome: High fever, headache, back and abdominal pain, kidney dysfunction.
+Rhabdomyolysis: Muscle pain, weakness, dark urine, decreased urine output, fatigue.
+Von Recklinghausen's disease (Neurofibromatosis type 1): Café-au-lait spots (light brown birthmarks), neurofibromas (soft tumors), freckling in armpits or groin, optic gliomas.
+Toxic shock syndrome: High fever, rash resembling sunburn, low blood pressure, confusion, vomiting.
+Wilson's disease: Fatigue, jaundice, abdominal pain, tremors, behavioral changes.
+Nephrotic syndrome: Edema (swelling), foamy urine, fatigue, loss of appetite, weight gain.
+Pemphigus: Blisters on the skin and mucous membranes, painful sores, skin peeling.
+Alcoholic hepatitis: Abdominal pain, jaundice, fatigue, loss of appetite, swollen liver.
+Klinefelter syndrome: Small testicles, reduced facial and body hair, breast enlargement, infertility, learning disabilities.
+Alkaptonuria: Darkening of urine, ochronosis (dark pigmentation of connective tissues), joint pain, heart problems.
+Vitamin B12 deficiency: Fatigue, weakness, tingling or numbness in hands and feet, difficulty walking, memory problems.
+Amyloidosis: Fatigue, weight loss, swelling, organ dysfunction, enlarged tongue.
+Chagas disease: Fever, fatigue, body aches, swollen lymph nodes, heart rhythm abnormalities.
+Otosclerosis: Progressive hearing loss, tinnitus (ringing in the ears), dizziness, balance problems.
+Choriocarcinoma: Abnormal vaginal bleeding, pelvic pain, enlargement of the uterus, symptoms of pregnancy without a viable fetus.
+Fuchs' dystrophy: Blurred or cloudy vision, glare sensitivity, increased difficulty seeing at night.
+Brucellosis: Fever, fatigue, muscle pain, joint pain, night sweats.
+Pernicious anemia: Fatigue, weakness, pale skin, shortness of breath, tingling or numbness in hands and feet.
+Chronic prostatitis/chronic pelvic pain syndrome: Pelvic pain, pain during urination or ejaculation, frequent urination, sexual dysfunction.
+Giant cell arteritis: Headaches, scalp tenderness, jaw pain, vision problems, fatigue.
+Ovarian torsion: Sudden severe abdominal pain, nausea, vomiting, bloating, fever.
+Amyotrophic lateral sclerosis (ALS): Muscle weakness, twitching, difficulty speaking or swallowing, muscle stiffness.
+Graves' disease: Weight loss, rapid heartbeat, anxiety, irritability, bulging eyes.
+Tinnitus: Ringing or buzzing sound in the ears, hearing loss, dizziness, ear pain or pressure.
+Behçet's disease: Mouth sores, genital sores, eye inflammation, skin lesions, joint pain.
+Cholangiocarcinoma: Abdominal pain, jaundice, unexplained weight loss, loss of appetite, itching.
+Diabetic nephropathy: Swelling in the legs or ankles, foamy urine, fatigue, increased blood pressure.
+Hemolytic uremic syndrome: Bloody diarrhea, abdominal pain, decreased urine output, fatigue, bruising.
+Bacterial vaginosis: Vaginal discharge with a strong, fishy odor, itching, burning during urination.
+Raynaud's disease: Cold fingers or toes, color changes in the skin (white, blue, red), numbness or tingling.
+Acute lymphoblastic leukemia: Fatigue, paleness, frequent infections, easy bleeding or bruising, bone pain.
+Cervical cancer: Abnormal vaginal bleeding, pelvic pain, pain during intercourse, watery or bloody vaginal discharge.
+Glomerulonephritis: Hematuria (blood in urine), foamy urine, swelling in the face, legs, or abdomen, high blood pressure.
+Fibromyalgia: Widespread pain, fatigue, sleep disturbances, cognitive difficulties.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Von Willebrand disease: Excessive bleeding, easy bruising, nosebleeds, heavy or prolonged menstrual periods.
+Ankylosing spondylitis: Back pain and stiffness, limited mobility, fatigue, eye inflammation.
+Schistosomiasis: Abdominal pain, blood in urine or stool, fever, cough, fatigue.
+Aplastic anemia: Fatigue, pale skin, frequent infections, easy bruising or bleeding, shortness of breath.
+Hypoplastic left heart syndrome: Cyanosis (bluish skin color), rapid breathing, poor feeding, low blood pressure.
+Eosinophilic esophagitis: Difficulty swallowing, chest pain, food impaction, acid reflux symptoms, vomiting.
+Sjögren's syndrome: Dry eyes, dry mouth, joint pain, fatigue.
+Hyperthyroidism: Weight loss, increased appetite, irritability, trembling hands, rapid heartbeat.
+Prader-Willi syndrome: Excessive hunger and food-seeking behavior, obesity, developmental delays, low muscle tone.
+Chronic migraine: Recurrent migraines, sensitivity to light and sound, nausea, throbbing head pain.
+Uterine prolapse: Sensation of heaviness or pulling in the pelvis, tissue protruding from the vagina, urinary incontinence, difficulty emptying the bladder.
+Antiphospholipid syndrome: Blood clots, recurrent miscarriages, rash, neurological symptoms, low platelet count.
+Hemochromatosis: Fatigue, joint pain, abdominal pain, weakness, weight loss.
+Graft-versus-host disease: Skin rash, abdominal pain, diarrhea, liver problems, fatigue.
+Scleroderma: Thickening and tightening of the skin, Raynaud's phenomenon, joint pain, digestive issues, shortness of breath.
+Diabetic retinopathy: Blurred or distorted vision, floaters, dark spots or empty areas in vision, difficulty seeing at night.
+Acute pancreatitis: Severe abdominal pain, nausea, vomiting, fever, rapid pulse.
+Chronic obstructive pulmonary disease (COPD): Shortness of breath, chronic cough, wheezing, fatigue.
+Fabry disease: Pain and burning sensations in the hands and feet, skin rash, gastrointestinal problems, hearing loss.
+Charcot-Marie-Tooth disease: Muscle weakness and wasting in the legs and feet, difficulty walking, loss of sensation.
+Achondroplasia: Short stature, disproportionately short limbs, enlarged head, spinal problems.
+Ehlers-Danlos syndrome: Joint hypermobility, skin hyperextensibility, chronic pain, easy bruising, fragile blood vessels.
+Chronic myeloid leukemia: Fatigue, pale skin, unexplained weight loss, night sweats, abdominal fullness.
+Diverticulosis: Abdominal pain, bloating, changes in bowel habits, rectal bleeding.
+Chronic venous insufficiency: Leg pain, swelling, varicose veins, skin discoloration, leg ulcers.
+Guillain-Barré syndrome: Weakness or tingling in the legs and arms, difficulty walking, muscle weakness, loss of reflexes.
+Temporal arteritis: Headaches, scalp tenderness, jaw pain, vision problems, fatigue.
+Hypertrophic cardiomyopathy: Chest pain, shortness of breath, fatigue, dizziness, fainting.
+Epididymitis: Pain and swelling in the testicles, urinary symptoms, discharge from the penis.
+Neurofibromatosis: Cafe-au-lait spots (light brown birthmarks), soft tumors on or under the skin, bone deformities, learning difficulties.
+Interstitial cystitis: Chronic pelvic pain, urinary urgency, frequent urination, bladder discomfort.
+Guillain-Barré syndrome: Weakness or tingling in the legs and arms, difficulty walking, muscle weakness, loss of reflexes.
+Temporal arteritis: Headaches, scalp tenderness, jaw pain, vision problems, fatigue.
+Hypertrophic cardiomyopathy: Chest pain, shortness of breath, fatigue, dizziness, fainting.
+Epididymitis: Pain and swelling in the testicles, urinary symptoms, discharge from the penis.
+Neurofibromatosis: Café-au-lait spots (light brown birthmarks), soft tumors on or under the skin, bone deformities, learning difficulties.
+Polymyalgia rheumatica: Stiffness and pain in the shoulders, neck, and hips, fatigue, weight loss.
+Endometriosis: Pelvic pain, painful periods, pain during intercourse, infertility, fatigue.
+Henoch-Schönlein purpura: Purplish rash on the skin, joint pain, abdominal pain, blood in urine.
+Hyperparathyroidism: Fatigue, weakness, bone pain, kidney stones, frequent urination.
+Cholangiocarcinoma: Abdominal pain, jaundice, unexplained weight loss, loss of appetite, itching.
+Ménière's disease: Vertigo (spinning sensation), hearing loss, tinnitus (ringing in the ears), ear pressure or fullness.
+Cystic fibrosis: Persistent cough, frequent lung infections, poor weight gain, salty-tasting skin.
+Hyperthyroidism: Weight loss, increased appetite, irritability, trembling hands, rapid heartbeat.
+Peripheral artery disease (PAD): Leg pain or cramping during activity, leg numbness or weakness, slow-healing sores on the legs or feet.
+Alopecia areata: Patchy hair loss, usually on the scalp, but can affect eyebrows, eyelashes, and other hair-bearing areas.
+Osteomalacia: Bone pain, muscle weakness, fractures, difficulty walking.
+Epilepsy: Recurrent seizures, loss of consciousness, unusual sensations, convulsions, temporary confusion.
+Gout: Severe joint pain, redness, swelling, tenderness, limited range of motion.
+Huntington's disease: Involuntary movements, balance problems, mood changes, cognitive decline.
+Restless legs syndrome: Uncomfortable sensation in the legs, often relieved by movement, difficulty sleeping, involuntary leg movements.
+Chronic sinusitis: Facial pain or pressure, nasal congestion, thick nasal discharge, cough.
+Ovarian cancer: Abdominal bloating or swelling, pelvic pain, frequent urination, feeling full quickly.
+Barrett's esophagus: Chronic heartburn, difficulty swallowing, chest pain, vomiting blood.
+Hemophilia: Excessive bleeding, easy bruising, joint pain or swelling, prolonged bleeding after injury or surgery.
+Ménière's disease: Vertigo (spinning sensation), hearing loss, tinnitus (ringing in the ears), ear pressure or fullness.
+Shingles: Painful rash with blisters, itching, tingling, fever, fatigue.
+Osteogenesis imperfecta (Brittle bone disease): Frequent fractures, bone deformities, short stature, blue sclerae.
+Chronic kidney disease: Fatigue, swelling in the legs and ankles, changes in urination pattern, nausea, loss of appetite.
+Hemochromatosis: Fatigue, joint pain, abdominal pain, weakness, weight loss.
+Sickle cell anemia: Fatigue, shortness of breath, recurrent pain episodes (crisis), yellowing of the skin and eyes (jaundice).
+Lupus nephritis: Fatigue, joint pain, skin rash, fever, kidney problems.
+Primary biliary cholangitis: Fatigue, itching, abdominal pain, dry eyes and mouth, yellowing of the skin and eyes (jaundice).
+Trichomoniasis: Vaginal itching or irritation, abnormal vaginal discharge (foamy, greenish-yellow), pain during urination or intercourse.
+Chronic fatigue syndrome (CFS): Severe fatigue that is not improved by rest, cognitive difficulties, muscle pain, unrefreshing sleep.
+Aortic stenosis: Chest pain or discomfort, shortness of breath, fatigue, fainting, heart palpitations.
+Menopause: Hot flashes, night sweats, mood swings, vaginal dryness, sleep disturbances.
+Tuberculosis: Persistent cough, chest pain, coughing up blood, fatigue, weight loss.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Hyperparathyroidism: Fatigue, weakness, bone pain, kidney stones, frequent urination.
+Primary sclerosing cholangitis: Fatigue, itching, abdominal pain, yellowing of the skin and eyes (jaundice), weight loss.
+Myasthenia gravis: Muscle weakness, difficulty speaking or swallowing, drooping eyelids, double vision, fatigue.
+Chronic lymphocytic leukemia: Fatigue, enlarged lymph nodes, night sweats, recurrent infections, unexplained weight loss.
+Ménière's disease: Vertigo (spinning sensation), hearing loss, tinnitus (ringing in the ears), ear pressure or fullness.
+Cervical spondylosis: Neck pain, stiffness, headaches, numbness or tingling in the arms or hands, difficulty walking.
+Ankylosing spondylitis: Back pain and stiffness, limited mobility, fatigue, eye inflammation.
+Bacterial meningitis: Severe headache, fever, stiff neck, nausea, sensitivity to light.
+Chronic pancreatitis: Abdominal pain, nausea, vomiting, weight loss, oily or fatty stools.
+Polymyalgia rheumatica: Stiffness and pain in the shoulders, neck, and hips, fatigue, weight loss.
+Von Willebrand disease: Excessive bleeding, easy bruising, nosebleeds, heavy or prolonged menstrual periods.
+Cholecystitis (Gallbladder inflammation): Abdominal pain, fever, nausea, vomiting, bloating.
+Charcot-Marie-Tooth disease: Muscle weakness and wasting in the legs and feet, difficulty walking, loss of sensation.
+Migraine: Recurrent severe headaches, often with nausea, vomiting, and sensitivity to light and sound.
+Celiac disease: Digestive issues (abdominal pain, diarrhea, bloating), fatigue, weight loss, skin rash.
+Hypothyroidism: Fatigue, weight gain, depression, constipation, dry skin, hair loss.
+Pancreatic cancer: Abdominal pain, jaundice, unexplained weight loss, digestive problems, fatigue.
+Polycystic kidney disease: Abdominal pain, high blood pressure, blood in urine, frequent urination, kidney stones.
+Hyperglycemia (high blood sugar): Increased thirst, frequent urination, fatigue, blurred vision, slow-healing sores.
+Cushing's syndrome: Weight gain (particularly in the face and abdomen), high blood pressure, muscle weakness, mood changes.
+Barrett's esophagus: Chronic heartburn, difficulty swallowing, chest pain, vomiting blood.
+Pneumonia: Cough, fever, chest pain, shortness of breath, fatigue.
+Deep vein thrombosis: Swelling, pain, warmth, and redness in the affected leg, leg heaviness or fatigue.
+Narcolepsy: Excessive daytime sleepiness, sudden loss of muscle tone (cataplexy), sleep paralysis, hallucinations.
+Hypoglycemia (low blood sugar): Shakiness, dizziness, sweating, confusion, rapid heartbeat.
+Rheumatoid arthritis: Joint pain, stiffness, swelling, fatigue, morning stiffness.
+Hepatitis B: Fatigue, jaundice, abdominal pain, dark urine, joint pain.
+Huntington's disease: Involuntary movements, balance problems, mood changes, cognitive decline.
+Bladder cancer: Blood in urine, frequent urination, pain during urination, back pain, weight loss.
+Sleep apnea: Loud snoring, pauses in breathing during sleep, daytime sleepiness, morning headaches.
+Crohn's disease: Abdominal pain, diarrhea, fatigue, weight loss, fever.
+Polycythemia vera: Fatigue, headache, itching, enlarged spleen, blood clotting.
+Multiple system atrophy: Autonomic dysfunction (low blood pressure, bladder and bowel problems), movement difficulties, speech and swallowing problems.
+Psoriasis: Red, itchy, and scaly patches of skin, often on elbows, knees, scalp, or lower back.
+Hemorrhagic stroke: Sudden severe headache, weakness or numbness on one side of the body, slurred speech, loss of balance.
+Hypothyroidism: Fatigue, weight gain, depression, constipation, dry skin, hair loss.
+Osteoporosis: Bone pain, fractures, loss of height, stooped posture.
+Primary immunodeficiency: Frequent and severe infections, slow healing of wounds, recurrent pneumonia or bronchitis.
+Cholangiocarcinoma: Abdominal pain, jaundice, unexplained weight loss, loss of appetite, itching.
+Diverticulitis: Abdominal pain, tenderness in the lower left side, fever, changes in bowel movements.
+Restless legs syndrome: Uncomfortable sensation in the legs, often relieved by movement, difficulty sleeping, involuntary leg movements.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Parkinson's disease: Tremors, stiffness, slowed movement, balance problems, difficulty speaking.
+Aortic aneurysm: Deep, constant pain in the chest, abdomen, or back, often described as a tearing sensation.
+Temporomandibular joint disorder (TMJ): Jaw pain, clicking or popping sounds, difficulty opening or closing the mouth, headaches.
+Bulimia nervosa: Binge eating followed by purging behaviors (vomiting, laxative use), self-induced vomiting, distorted body image.
+Systemic lupus erythematosus: Joint pain, fatigue, skin rash (often on the face), fever, kidney problems.
+Polymyalgia rheumatica: Stiffness and pain in the shoulders, neck, and hips, fatigue, weight loss.
+Chronic kidney disease: Fatigue, swelling in the legs and ankles, changes in urination pattern, nausea, loss of appetite.
+Deep vein thrombosis: Swelling, pain, warmth, and redness in the affected leg, leg heaviness or fatigue.
+Retinal detachment: Floaters or flashes of light in vision, blurred vision, a curtain-like shadow over the visual field.
+Celiac disease: Digestive issues (abdominal pain, diarrhea, bloating), fatigue, weight loss, skin rash.
+Hypertrophic cardiomyopathy: Chest pain, shortness of breath, fatigue, dizziness, fainting.
+Lupus nephritis: Fatigue, joint pain, skin rash, fever, kidney problems.
+Gastric ulcers: Abdominal pain or discomfort (usually relieved by eating or taking antacids), indigestion, nausea, vomiting.
+Ectopic pregnancy: Abdominal pain (often on one side), vaginal bleeding, shoulder pain, dizziness.
+Myelodysplastic syndrome: Fatigue, weakness, shortness of breath, frequent infections, easy bleeding or bruising.
+Turner syndrome: Short stature, delayed puberty, infertility, heart defects, learning difficulties.
+Behçet's disease: Mouth sores, genital sores, eye inflammation, skin lesions, joint pain.
+Chronic venous insufficiency: Leg pain, swelling, varicose veins, skin discoloration, leg ulcers.
+Amyotrophic lateral sclerosis (ALS): Muscle weakness, twitching, difficulty speaking or swallowing, muscle stiffness.
+Fibromyalgia: Widespread pain, fatigue, sleep disturbances, cognitive difficulties.
+Chronic sinusitis: Facial pain or pressure, nasal congestion, thick nasal discharge, cough.
+Chronic obstructive pulmonary disease (COPD): Shortness of breath, chronic cough, wheezing, fatigue.
+Ménière's disease: Vertigo (spinning sensation), hearing loss, tinnitus (ringing in the ears), ear pressure or fullness.
+Bell's palsy: Sudden weakness or paralysis on one side of the face, drooping of the mouth or eyelid, difficulty closing the eye.
+Acromegaly: Enlarged hands and feet, enlarged facial features, joint pain, thickened skin.
+Polycystic ovary syndrome (PCOS): Irregular menstrual periods, excess hair growth, acne, weight gain.
+Chronic prostatitis/chronic pelvic pain syndrome: Pelvic pain, pain during urination or ejaculation, frequent urination, sexual dysfunction.
+Sickle cell disease: Fatigue, shortness of breath, pain crises, delayed growth, increased risk of infections.
+Prader-Willi syndrome: Excessive hunger and food-seeking behavior, obesity, developmental delays, low muscle tone.
+Uterine fibroids: Heavy menstrual bleeding, pelvic pain, frequent urination, constipation.
+Hemorrhagic fever with renal syndrome: High fever, headache, back and abdominal pain, kidney dysfunction.
+Cushing's syndrome: Weight gain (particularly in the face and abdomen), high blood pressure, muscle weakness, mood changes.
+Wilson's disease: Fatigue, jaundice, abdominal pain, tremors, behavioral changes.
+Polymyositis: Muscle weakness and pain, difficulty swallowing, fatigue, joint pain.
+Chlamydia: Abnormal vaginal discharge (women), painful urination, genital pain or swelling, rectal pain or discharge.
+Ankylosing spondylitis: Back pain and stiffness, limited mobility, fatigue, eye inflammation.
+Chronic pancreatitis: Abdominal pain, nausea, vomiting, weight loss, oily or fatty stools.
+Hemophilia: Excessive bleeding, easy bruising, joint pain or swelling, prolonged bleeding after injury or surgery.
+Bacterial meningitis: Severe headache, fever, stiff neck, nausea, sensitivity to light.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Ovarian torsion: Sudden severe abdominal pain, nausea, vomiting, bloating, fever.
+Brucellosis: Fever, fatigue, muscle pain, joint pain, night sweats.
+Restless legs syndrome: Uncomfortable sensation in the legs, often relieved by movement, difficulty sleeping, involuntary leg movements.
+Barrett's esophagus: Chronic heartburn, difficulty swallowing, chest pain, vomiting blood.
+Myelofibrosis: Fatigue, weakness, shortness of breath, abdominal discomfort, enlarged spleen.
+Osteoporosis: Bone pain, fractures, loss of height, stooped posture.
+Guillain-Barré syndrome: Weakness or tingling in the legs and arms, difficulty walking, muscle weakness, loss of reflexes.
+Temporal arteritis: Headaches, scalp tenderness, jaw pain, vision problems, fatigue.
+Hypothyroidism: Fatigue, weight gain, depression, constipation, dry skin, hair loss.
+Deep vein thrombosis: Swelling, pain, warmth, and redness in the affected leg, leg heaviness or fatigue.
+Rheumatoid arthritis: Joint pain, stiffness, swelling, fatigue, morning stiffness.
+Hemorrhoids: Rectal pain or discomfort, bleeding during bowel movements, itching, swelling.
+Bacterial vaginosis: Vaginal discharge with a strong, fishy odor, itching, burning during urination.
+Temporomandibular joint disorder (TMJ): Jaw pain, clicking or popping sounds, difficulty opening or closing the mouth, headaches.
+Chronic obstructive pulmonary disease (COPD): Shortness of breath, chronic cough, wheezing, fatigue.
+Schizophrenia: Delusions, hallucinations, disorganized thinking and speech, lack of motivation, social withdrawal.
+Gastroesophageal reflux disease (GERD): Heartburn, regurgitation, chest pain, difficulty swallowing, chronic cough.
+Osteoarthritis: Joint pain, stiffness, swelling, decreased range of motion, grating sensation in the joints.
+Graves' disease: Weight loss, rapid heartbeat, anxiety, irritability, bulging eyes.
+Cholecystitis (Gallbladder inflammation): Abdominal pain, fever, nausea, vomiting, bloating.
+Chronic kidney disease: Fatigue, swelling in the legs and ankles, changes in urination pattern, nausea, loss of appetite.
+Sjögren's syndrome: Dry eyes, dry mouth, joint pain, fatigue.
+Ovarian cancer: Abdominal bloating or swelling, pelvic pain, frequent urination, feeling full quickly.
+Glaucoma: Gradual loss of peripheral vision, tunnel vision, eye pain or redness, halos around lights.
+Hypertrophic cardiomyopathy: Chest pain, shortness of breath, fatigue, dizziness, fainting.
+Diverticulitis: Abdominal pain, tenderness in the lower left side, fever, changes in bowel movements.
+Menopause: Hot flashes, night sweats, mood swings, vaginal dryness, sleep disturbances.
+Osteoporosis: Bone pain, fractures, loss of height, stooped posture.
+Anemia: Fatigue, weakness, pale skin, shortness of breath, rapid heartbeat.
+Chronic prostatitis/chronic pelvic pain syndrome: Pelvic pain, pain during urination or ejaculation, frequent urination, sexual dysfunction.
+Gout: Severe joint pain, redness, swelling, tenderness, limited range of motion.
+Myasthenia gravis: Muscle weakness, difficulty speaking or swallowing, drooping eyelids, double vision, fatigue.
+Chronic lymphocytic leukemia: Fatigue, enlarged lymph nodes, night sweats, recurrent infections, unexplained weight loss.
+Ménière's disease: Vertigo (spinning sensation), hearing loss, tinnitus (ringing in the ears), ear pressure or fullness.
+Bell's palsy: Sudden weakness or paralysis on one side of the face, drooping of the mouth or eyelid, difficulty closing the eye.
+Bacterial meningitis: Severe headache, fever, stiff neck, nausea, sensitivity to light.
+Polycystic ovary syndrome (PCOS): Irregular menstrual periods, excess hair growth, acne, weight gain.
+Polymyalgia rheumatica: Stiffness and pain in the shoulders, neck, and hips, fatigue, weight loss.
+Chronic kidney disease: Fatigue, swelling in the legs and ankles, changes in urination pattern, nausea, loss of appetite.
+Deep vein thrombosis: Swelling, pain, warmth, and redness in the affected leg, leg heaviness or fatigue.
+Retinal detachment: Floaters or flashes of light in vision, blurred vision, a curtain-like shadow over the visual field.
+Celiac disease: Digestive issues (abdominal pain, diarrhea, bloating), fatigue, weight loss, skin rash.
+Hypertrophic cardiomyopathy: Chest pain, shortness of breath, fatigue, dizziness, fainting.
+Temporal arteritis: Headaches, scalp tenderness, jaw pain, vision problems, fatigue.
+Polymyositis: Muscle weakness and pain, difficulty swallowing, fatigue, joint pain.
+Chlamydia: Abnormal vaginal discharge (women), painful urination, genital pain or swelling, rectal pain or discharge.
+Ankylosing spondylitis: Back pain and stiffness, limited mobility, fatigue, eye inflammation.
+Chronic pancreatitis: Abdominal pain, nausea, vomiting, weight loss, oily or fatty stools.
+Hemophilia: Excessive bleeding, easy bruising, joint pain or swelling, prolonged bleeding after injury or surgery.
+Bacterial vaginosis: Vaginal discharge with a strong, fishy odor, itching, burning during urination.
+Restless legs syndrome: Uncomfortable sensation in the legs, often relieved by movement, difficulty sleeping, involuntary leg movements.
+Primary biliary cholangitis: Fatigue, itching, abdominal pain, dry eyes and mouth, yellowing of the skin and eyes (jaundice).
+Trichomoniasis: Vaginal itching or irritation, abnormal vaginal discharge (foamy, greenish-yellow), pain during urination or intercourse.
+Chronic fatigue syndrome (CFS): Severe fatigue that is not improved by rest, cognitive difficulties, muscle pain, unrefreshing sleep.
+Aortic stenosis: Chest pain or discomfort, shortness of breath, fatigue, fainting, heart palpitations.
+Menopause: Hot flashes, night sweats, mood swings, vaginal dryness, sleep disturbances.
+Tuberculosis: Persistent cough, chest pain, coughing up blood, fatigue, weight loss.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Hyperparathyroidism: Fatigue, weakness, bone pain, kidney stones, frequent urination.
+Primary sclerosing cholangitis: Fatigue, itching, abdominal pain, yellowing of the skin and eyes (jaundice), weight loss.
+Myelofibrosis: Fatigue, weakness, shortness of breath, abdominal discomfort, enlarged spleen.
+Osteoporosis: Bone pain, fractures, loss of height, stooped posture.
+Chronic venous insufficiency: Leg pain, swelling, varicose veins, skin discoloration, leg ulcers.
+Amyotrophic lateral sclerosis (ALS): Muscle weakness, twitching, difficulty speaking or swallowing, muscle stiffness.
+Fibromyalgia: Widespread pain, fatigue, sleep disturbances, cognitive difficulties.
+Chronic sinusitis: Facial pain or pressure, nasal congestion, thick nasal discharge, cough.
+Chronic obstructive pulmonary disease (COPD): Shortness of breath, chronic cough, wheezing, fatigue.
+Ménière's disease: Vertigo (spinning sensation), hearing loss, tinnitus (ringing in the ears), ear pressure or fullness.
+Bell's palsy: Sudden weakness or paralysis on one side of the face, drooping of the mouth or eyelid, difficulty closing the eye.
+Acromegaly: Enlarged hands and feet, enlarged facial features, joint pain, thickened skin.
+Polycystic ovary syndrome (PCOS): Irregular menstrual periods, excess hair growth, acne, weight gain.
+Pernicious anemia: Fatigue, weakness, pale skin, shortness of breath, tingling or numbness in hands and feet.
+Chronic prostatitis/chronic pelvic pain syndrome: Pelvic pain, pain during urination or ejaculation, frequent urination, sexual dysfunction.
+Giant cell arteritis: Headaches, scalp tenderness, jaw pain, vision problems, fatigue.
+Ovarian torsion: Sudden severe abdominal pain, nausea, vomiting, bloating, fever.
+Amyotrophic lateral sclerosis (ALS): Muscle weakness, twitching, difficulty speaking or swallowing, muscle stiffness.
+Graves' disease: Weight loss, rapid heartbeat, anxiety, irritability, bulging eyes.
+Tinnitus: Ringing or buzzing sound in the ears, hearing loss, dizziness, ear pain or pressure.
+Behçet's disease: Mouth sores, genital sores, eye inflammation, skin lesions, joint pain.
+Cholangiocarcinoma: Abdominal pain, jaundice, unexplained weight loss, loss of appetite, itching.
+Diabetic nephropathy: Swelling in the legs or ankles, foamy urine, fatigue, increased blood pressure.
+Hemolytic uremic syndrome: Bloody diarrhea, abdominal pain, decreased urine output, fatigue, bruising.
+Bacterial vaginosis: Vaginal discharge with a strong, fishy odor, itching, burning during urination.
+Raynaud's disease: Cold fingers or toes, color changes in the skin (white, blue, red), numbness or tingling.
+Acute lymphoblastic leukemia: Fatigue, paleness, frequent infections, easy bleeding or bruising, bone pain.
+Cervical cancer: Abnormal vaginal bleeding, pelvic pain, pain during intercourse, watery or bloody vaginal discharge.
+Glomerulonephritis: Hematuria (blood in urine), foamy urine, swelling in the face, legs, or abdomen, high blood pressure.
+Fibromyalgia: Widespread pain, fatigue, sleep disturbances, cognitive difficulties.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Von Willebrand disease: Excessive bleeding, easy bruising, nosebleeds, heavy or prolonged menstrual periods.
+Ankylosing spondylitis: Back pain and stiffness, limited mobility, fatigue, eye inflammation.
+Anorexia nervosa: Extreme weight loss, distorted body image, fear of weight gain, restrictive eating patterns.
+Primary biliary cholangitis: Fatigue, itching, abdominal pain, dry eyes and mouth, yellowing of the skin and eyes (jaundice).
+Ovarian cysts: Abdominal bloating or swelling, pelvic pain or discomfort, changes in menstrual cycle, frequent urination.
+Chronic fatigue syndrome (CFS): Severe fatigue that is not improved by rest, cognitive difficulties, muscle pain, unrefreshing sleep.
+Aortic stenosis: Chest pain or discomfort, shortness of breath, fatigue, fainting, heart palpitations.
+Menopause: Hot flashes, night sweats, mood swings, vaginal dryness, sleep disturbances.
+Tuberculosis: Persistent cough, chest pain, coughing up blood, fatigue, weight loss.
+Hypoparathyroidism: Muscle cramps or spasms, tingling or numbness, fatigue, mood changes.
+Hyperparathyroidism: Fatigue, weakness, bone pain, kidney stones, frequent urination.
+Primary sclerosing cholangitis: Fatigue, itching, abdominal pain, yellowing of the skin and eyes (jaundice), weight loss.
+Myelofibrosis: Fatigue, weakness, shortness of breath, abdominal discomfort, enlarged spleen.
+Endometriosis: Pelvic pain, painful periods, pain during intercourse, infertility, fatigue.
+Chronic venous insufficiency: Leg pain, swelling, varicose veins, skin discoloration, leg ulcers.
+Amyotrophic lateral sclerosis (ALS): Muscle weakness, twitching, difficulty speaking or swallowing, muscle stiffness.
+Fibromyalgia: Widespread pain, fatigue, sleep disturbances, cognitive difficulties.
+Chronic sinusitis: Facial pain or pressure, nasal congestion, thick nasal discharge, cough.
+Chronic obstructive pulmonary disease (COPD): Shortness of breath, chronic cough, wheezing, fatigue.
+Ménière's disease: Vertigo (spinning sensation), hearing loss, tinnitus (ringing in the ears), ear pressure or fullness.
+Bell's palsy: Sudden weakness or paralysis on one side of the face, drooping of the mouth or eyelid, difficulty closing the eye.
+Acromegaly: Enlarged hands and feet, enlarged facial features, joint pain, thickened skin.
+
